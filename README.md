@@ -1,8 +1,8 @@
-# Resumo Completo sobre Bitcoin, Blockchain e Segurança de Criptomoedas
+# BTC e BlockChain - Conceitos Fundamentais
 
 ## Introdução
 
-O Bitcoin é uma criptomoeda descentralizada, criada como uma solução alternativa às moedas fiduciárias tradicionais e ao sistema bancário. Utilizando uma tecnologia chamada **blockchain** e mecanismos de consenso inovadores, como a **prova de trabalho (Proof of Work)**, ele permite transações seguras, globais e sem intermediários.
+O Bitcoin é uma criptomoeda descentralizada, criada em 2008, como uma solução alternativa às moedas fiduciárias tradicionais e ao sistema bancário. Utilizando uma tecnologia chamada **blockchain** e mecanismos de consenso inovadores, como a **prova de trabalho (Proof of Work)**, ele permite transações seguras, globais e sem intermediários.
 
 ---
 
