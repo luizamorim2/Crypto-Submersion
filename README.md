@@ -136,9 +136,3 @@ Não, o Bitcoin é **pseudoanônimo**. As transações são registradas publicam
 ## 11. Halving
 
 O **Halving** é um evento programado que ocorre a cada quatro anos e reduz pela metade a recompensa dada aos mineradores. Isso limita a oferta de novos bitcoins, mantendo a escassez da moeda e potencialmente aumentando seu valor ao longo do tempo.
-
----
-
-## Conclusão
-
-O Bitcoin é um avanço tecnológico que revolucionou o conceito de dinheiro digital, oferecendo segurança, transparência e descentralização. Conceitos como mineração, blockchain, funções hash e proof of work garantem a integridade da rede, enquanto carteiras digitais e nós completos ajudam a manter a rede segura. Ao entender esses fundamentos, você está preparado para explorar o mundo das criptomoedas de forma consciente e segura.
